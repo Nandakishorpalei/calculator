@@ -44,10 +44,10 @@ table{
   font-size: 2rem;
   font-family: 'Lobster', cursive;
 }
-@media (max-width:1028) {
+@media (max-width:1028px) {
   .calculator{
     margin-left: 5px;
-   font-size: 5rem;
+   font-size: 4.85rem;
    position: absolute;
   font-family: serif;
   }
