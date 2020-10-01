@@ -47,7 +47,7 @@ table{
 @media (max-width:1028px) {
   .calculator{
     margin-left: 5px;
-   font-size: 4.85rem;
+   font-size: 4.5rem;
    position: absolute;
   font-family: serif;
   }
