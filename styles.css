@@ -48,7 +48,9 @@ table{
   width:29%;
   margin-left: 550px;
 }
-@media (max-width:1428px) {
+
+
+@media (max-width:1088px) {
   .container{
     background-size:cover;
   }
@@ -63,7 +65,7 @@ table{
     margin-left: 25%;
   }
 }
-@media (max-width:1028px) {
+@media (max-width:788px) {
   .container{
     background-size:cover;
   }
@@ -74,22 +76,7 @@ table{
   font-family: serif;
   }
   .note{
-    width:90%;
-    margin-left: 8%;
-  }
-}
-@media (max-width:628px) {
-  .container{
-    background-size:cover;
-  }
-  .calculator{
-    margin-left: 5px;
-   font-size: 4.5rem;
-   position: absolute;
-  font-family: serif;
-  }
-  .note{
-    width:60%;
-    margin-left: 20%;
+    width:89%;
+    margin-left: 6%;
   }
 }
