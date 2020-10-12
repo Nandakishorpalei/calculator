@@ -45,9 +45,9 @@ table{
   font-family: 'Lobster', cursive;
 }
 .note{
-    width:90%;
-    margin-left: 30px;
-  }
+  width:29%;
+  margin-left: 550px;
+}
 @media (max-width:1028px) {
   .calculator{
     margin-left: 5px;
@@ -55,5 +55,9 @@ table{
    position: absolute;
   font-family: serif;
     width:100%;
+  }
+  .note{
+    width:90%;
+    margin-left: 30px;
   }
 }
