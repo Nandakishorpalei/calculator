@@ -50,5 +50,6 @@ table{
    font-size: 4.5rem;
    position: absolute;
   font-family: serif;
+    width:100%;
   }
 }
