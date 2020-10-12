@@ -44,6 +44,10 @@ table{
   font-size: 2rem;
   font-family: 'Lobster', cursive;
 }
+.note{
+    width:90%;
+    margin-left: 30px;
+  }
 @media (max-width:1028px) {
   .calculator{
     margin-left: 5px;
