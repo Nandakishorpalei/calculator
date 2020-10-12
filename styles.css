@@ -78,7 +78,7 @@ table{
     margin-left: 8%;
   }
 }
-@media (max-width:428px) {
+@media (max-width:628px) {
   .container{
     background-size:cover;
   }
@@ -89,7 +89,7 @@ table{
   font-family: serif;
   }
   .note{
-    width:50%;
-    margin-left: 25%;
+    width:60%;
+    margin-left: 20%;
   }
 }
