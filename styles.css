@@ -67,7 +67,8 @@ table{
 }
 @media (max-width:788px) {
   .container{
-    background-size:cover;
+   height:1200px;
+    width:700px;
   }
   .calculator{
     margin-left: 5px;
