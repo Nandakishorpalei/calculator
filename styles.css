@@ -49,11 +49,10 @@ table{
   margin-left: 550px;
 }
 
+
 @media (max-width:1088px) {
   .container{
-    height:1200px;
-    width:90%;
-    color:yellow;
+    background-size:cover;
   }
   .calculator{
     margin-left: 5px;
@@ -61,11 +60,20 @@ table{
    position: absolute;
   font-family: serif;
   }
-  .name{
-    color:white;
-    text-align:center;
-    font-size: 2rem;
-    font-family: 'Lobster', cursive;
+  .note{
+    width:50%;
+    margin-left: 25%;
+  }
+}
+@media (max-width:788px) {
+  .container{
+    background-size:cover;
+  }
+  .calculator{
+    margin-left: 5px;
+   font-size: 4.5rem;
+   position: absolute;
+  font-family: serif;
   }
   .note{
     width:89%;
