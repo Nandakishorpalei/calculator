@@ -65,10 +65,10 @@ table{
     margin-left: 25%;
   }
 }
-@media (max-width:788px) {
+@media (max-width:1028px) {
   .container{
-   height:1200px;
-    width:700px;
+    height:1200px;
+    width:100%;
     color:yellow;
   }
   .calculator{
@@ -76,6 +76,12 @@ table{
    font-size: 4.5rem;
    position: absolute;
   font-family: serif;
+  }
+  .name{
+    color:white;
+    text-align:center;
+    font-size: 2rem;
+    font-family: 'Lobster', cursive;
   }
   .note{
     width:89%;
