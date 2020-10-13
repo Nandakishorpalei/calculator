@@ -68,7 +68,7 @@ table{
 @media (max-width:1028px) {
   .container{
     height:1200px;
-    width:100%;
+    width:90%;
     color:yellow;
   }
   .calculator{
