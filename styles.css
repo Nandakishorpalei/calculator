@@ -69,6 +69,7 @@ table{
   .container{
    height:1200px;
     width:700px;
+    color:yellow;
   }
   .calculator{
     margin-left: 5px;
